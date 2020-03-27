@@ -43,7 +43,7 @@ function constant_function () {
 
 
 
-const X = 10
+const X = 10 // this is showing that 10 is the constant //
 X = 2;
 document.write(X);
 
